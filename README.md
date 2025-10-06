@@ -29,9 +29,9 @@ All logs are stored and can be viewed in the Airflow web UI.
 airflow_dag_project/
 │
 ├── dags/
-│ └── mini_dag.py # The main DAG file
+│ └── mini_dag.py
 │
-├── images/ # Screenshots folder
+├── images/
 │ ├── graph.png
 │ ├── date_log.png
 │ ├── welcome_log.png
