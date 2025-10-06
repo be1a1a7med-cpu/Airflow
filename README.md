@@ -26,6 +26,7 @@ All logs are stored and can be viewed in the Airflow web UI.
 ---
 
 ## Project Structure
+
 airflow_dag_project/
 │
 ├── dags/
